@@ -1,3 +1,4 @@
+# KR2: Trishin
 import os
 import socket
 
